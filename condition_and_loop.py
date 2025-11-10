@@ -43,6 +43,10 @@ elif op == '/':
 else:
     print("Invalid operator")
 
+
+
+
+
 # Age Category Finder
 age = int(input("Enter your age: "))
 if age < 13:
